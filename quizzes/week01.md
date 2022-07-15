@@ -56,6 +56,8 @@ h1.main-title {
 
 ```
 
+the basic properties are a selector, a property, and a value.
+
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
