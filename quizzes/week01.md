@@ -24,6 +24,8 @@ make new directory
 
 ```
 
+The Html tag is where all the code is contained in an html document.
+
 ```
 
 **4.** What does `HTML` stand for?
@@ -84,6 +86,8 @@ body
 
 ```
 
+there are list tags such as <ol>, for an ordered list and <ul>, for an unordered list i'm not sure what the third one may be. I would consider using a <p> tag though.
+
 ```
 
 **10.** Define the display `:flex property:`
@@ -92,6 +96,8 @@ body
 
 ```
 
+display:flex changes the size of the container it is attached to. It changes it to always take up the max size it can.
+
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
@@ -99,5 +105,7 @@ body
 <!-- enter you answer in the space below -->
 
 ```
+
+you can use padding and margin to affect the size of a box, or you can change the height and width of the box.
 
 ```
