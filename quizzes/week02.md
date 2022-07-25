@@ -65,6 +65,7 @@ how would you .push the `them` object into the `you` object's array of friends?
 
 ```
 
+you.friends.push ('them')
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -109,6 +110,16 @@ document object value
 
 ```
 
+primitive,
+boolean,
+null,
+undefined,
+number
+bigint,
+string,
+symbol,
+objects
+
 ```
 
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
@@ -126,5 +137,7 @@ parameters are names supplied in the definition and arguments are what you use t
 <!-- enter you answer in the space below -->
 
 ```
+
+primitive are simple and stored directly where it was used. reference are alternate names of an existing variable.
 
 ```
