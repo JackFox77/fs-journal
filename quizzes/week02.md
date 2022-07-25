@@ -25,6 +25,15 @@ statements that are used to perform tasks or calculate values.
 
 ```
 
+single responsibility,
+open closed principle
+liskov substition principle,
+interface segregation principle,
+dependency inversion principle.
+
+
+
+
 ```
 
 **4.** Given this array:
@@ -38,6 +47,8 @@ What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 
 ```
+
+pineapple is in position 2, because arrays position start at 0
 
 ```
 
@@ -61,6 +72,10 @@ how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 
 ```
+
+if(i>=value;i++){
+
+}
 
 ```
 
