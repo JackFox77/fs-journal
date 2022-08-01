@@ -7,6 +7,7 @@
 ```
 
 encapsulation, inheritance, and polymorphism.
+
 ```
 
 **2.** How would you access the `name` of the below object using the `property` variable?
@@ -24,6 +25,8 @@ let property = "name";
 
 ```
 
+property.name
+
 ```
 
 **3.** What is Encapsulation?
@@ -31,6 +34,8 @@ let property = "name";
 <!-- enter you answer in the space below -->
 
 ```
+
+encapsulation makes it so the object can only be changed by the objects methods
 
 ```
 
@@ -49,6 +54,8 @@ single responsibility
 <!-- enter you answer in the space below -->
 
 ```
+
+a class is a template for creating objects. an instance will check to see if the defined property appears in a prototype chain on an object
 
 ```
 
