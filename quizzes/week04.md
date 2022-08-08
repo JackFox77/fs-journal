@@ -26,6 +26,7 @@ a listener is a piece of code that waits and listens for a specific key word, th
 
 ```
 
+open closed principle
 ```
 
 **4.** What is a callback / higher order function?
@@ -34,6 +35,7 @@ a listener is a piece of code that waits and listens for a specific key word, th
 
 ```
 
+a higher order function is any function that accepts other functions as parameters or returns functions
 ```
 
 **5.** What is a `promise`? How do you capture an error from a `promise`?
@@ -42,6 +44,7 @@ a listener is a piece of code that waits and listens for a specific key word, th
 
 ```
 
+a promise is an object that says something will happen in the future. you can get errors by using the catch functions.
 ```
 
 **6.** Name three processes used to make requests over `HTTP`?
@@ -50,6 +53,7 @@ a listener is a piece of code that waits and listens for a specific key word, th
 
 ```
 
+get post put
 ```
 
 **7.** What does the `API` acronym stand for?
@@ -57,6 +61,8 @@ a listener is a piece of code that waits and listens for a specific key word, th
 <!-- enter you answer in the space below -->
 
 ```
+
+application program interface.
 
 ```
 
@@ -66,6 +72,7 @@ a listener is a piece of code that waits and listens for a specific key word, th
 
 ```
 
+i would say the services are used to make calls to the api
 ```
 
 **9.** What is the purpose of encapsulation in programming?
@@ -74,6 +81,7 @@ a listener is a piece of code that waits and listens for a specific key word, th
 
 ```
 
+encapsulation can make code cleaner and can limit access to functions so that they are only available to the objects they are inside of
 ```
 
 **10.** What is `HTTP` response code for a successful request?
@@ -82,6 +90,7 @@ a listener is a piece of code that waits and listens for a specific key word, th
 
 ```
 
+resolved
 ```
 
 **11.** What is a 500 error?
@@ -90,4 +99,5 @@ a listener is a piece of code that waits and listens for a specific key word, th
 
 ```
 
+error 500 is an internal service error.
 ```
