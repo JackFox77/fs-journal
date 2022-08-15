@@ -66,6 +66,9 @@ let Schema = ________.Schema;
 
 ```
 
+
+import mongoose from "mongoose";
+let Schema = mongoose.Schema;
 ```
 
 **7.** What is middleware?
